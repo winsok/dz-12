@@ -1,0 +1,8 @@
+<suite name="Functional tests">
+    <test name="All tests">
+        <classes>
+            <class name="org.tests.GettersSettersTest"/>
+            <class name="org.tests.ManWomenTest"/>
+        </classes>
+    </test>
+</suite>

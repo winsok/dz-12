@@ -1,0 +1,7 @@
+<suite name="Functional tests">
+    <test name="Getters and Setters tests">
+        <classes>
+            <class name="org.tests.GettersSettersTest"/>
+        </classes>
+    </test>
+</suite>
